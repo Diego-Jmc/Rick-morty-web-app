@@ -1,0 +1,27 @@
+.red{
+    color:red
+}
+
+.orange{
+    color: orange;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.button-container {
+    margin-left: 1rem;
+}
+
+.button-container button{
+    padding: .5rem 1.2rem .5rem 1.2rem;
+    cursor: pointer;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
